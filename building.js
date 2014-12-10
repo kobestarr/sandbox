@@ -1,15 +1,16 @@
 // BIO SECTION
 var bio = {
-    "name": "Jeremy Lindstrom",
-    "role" : "Front End Developer",
+    "name": "Kobestarr",
+    "role" : "Front End Developer, Trainee Polymath",
     "contacts" : {
-    "email" : "jeremy@jeremylindstrom.com",
-    "github" : "dekard",
-    "mobile" : "972-963-0890",
-    "twitter": "@jeremylindstrom",
-    "location": "Flower Mound, Texas"
+    "email" : "kobestarr@gmail.com",
+    "github" : "kobestarr",
+    "mobile" : "+44 562378277",
+    "twitter": "@kobestarr",
+    "facebook": "facebook.com/kobestarrdotcom",
+    "location": "London, England"
      },
-    "skills" : ["Design & Development", "HTML/CSS/Javascript/JQuery/JSON"],
+    "skills" : ["Trainee Ninja", "Trainee RoR Wrangler", "Placid Casual", "HTML/CSS/Javascript/JQuery/JSON"],
     "picture" : "images/webshot.png",
     "welcomeMsg" : "Currently looking for new opportunties in Front End Web Development!"
 };
